@@ -1,7 +1,8 @@
 /** */ 
 
-body {margin: 0; overflow: hidden;}
-video { display: none; /* Hide the video element */}
+body {margin: 0; }
+/* overflow: hidden;} */
+/* video { display: none; /* Hide the video element } */
 #page-title {text-align: center; width: calc(100% - 20px); font-weight: bold; font-size: 1.5rem; padding: 10px;} 
 #screenshotButton {position: absolute; top: calc(100% - 250px); left:  calc(50% - 50px); z-index:  1; border: 0; background: none;}
 #screenshotButton img {width: 100px ; height: 100px; transition: filter 0.3s; } 
